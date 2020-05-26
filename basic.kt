@@ -1,5 +1,5 @@
 fun main() {
-    var books = arrayListOf("The Lord of the Ring", "The Hobbit", "The Count of Monte Cristo", "Crime and Punishment")
+    var books = arrayListOf("The Lord of the Rings", "The Hobbit", "The Count of Monte Cristo", "Crime and Punishment")
     
     for (book in books){
         if (book.contains('e')){
